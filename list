@@ -1,1 +1,2 @@
 nested dynamic form with a has_many :through: https://meaganwaller.com/use-a-nested-dynamic-form-with-a-hasmany-through-association-in-rails
+reject_if for empty fields in nested forms: https://stackoverflow.com/questions/27660424/rails-use-reject-if-only-on-create-action-for-nested-attributes 
